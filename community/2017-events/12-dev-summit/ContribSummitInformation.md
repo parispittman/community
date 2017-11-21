@@ -15,7 +15,9 @@ Times in CST
 9am - Welcome and start of content  
 12pm - Lunch provided  
 1pm - Sessions resume  
-430pm - Happy Hour onsite  
+430pm - Happy Hour onsite 
+
+asdfadsf
 
 ## Where:
 Austin Convention Center  
